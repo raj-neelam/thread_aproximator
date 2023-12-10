@@ -11,7 +11,7 @@
 <p align="center">
   
 
-## About 
+## :sparkles: About 
 
 Presenting our Image Color Approximator!
 
